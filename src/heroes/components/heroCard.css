@@ -1,0 +1,9 @@
+.card {
+  background-color: var(--color-cards);
+  border: 0.1rem solid var(--color-border);
+}
+.card-title {
+  color: white;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
